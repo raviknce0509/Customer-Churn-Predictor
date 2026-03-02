@@ -10,6 +10,9 @@ End-to-end ML system predicting telecom customer churn with 82%+ ROC-AUC. Deploy
 Raw Data → Feature Engineering → XGBoost Model → FastAPI → Docker → AWS EC2
 ```
 
+___
+# Live Demo
+[Try it on Hugging Face Spaces](https://huggingface.co/spaces/raviknce0509/customer-churn-predictor)
 ---
 
 ## Model Performance
