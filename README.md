@@ -3,7 +3,7 @@
 > End-to-end ML system predicting telecom customer churn with XGBoost (ROC-AUC: 0.83)
 
 ##  Live Demo
-👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_HF_USERNAME/customer-churn-predictor)
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/raviknce0509/customer-churn-predictor)
 
 ##  Architecture
 Raw Data → Feature Engineering → XGBoost → FastAPI → Docker → HF Spaces
